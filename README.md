@@ -1,6 +1,6 @@
 ### Hello, World! I'm Kristina.
 
-#### Front-end Developer
+#### Frontend Developer
 
 [<img align="left" alt="yegor256 | Gmail" width="22px" src="https://cdn.simpleicons.org/gmail/black/white" />](mailto:christina.vadi@gmail.com)
 [<img align="left" alt="yegor256 | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/black/white" />](https://www.linkedin.com/)
@@ -21,3 +21,5 @@ You can see my CV [here]().
 
 <!--![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)-->
+
+[![codewars](https://www.codewars.com/users/username/badges/micro)](https://www.codewars.com/users/rsschool_64a3a56f77b542d3/badges/micro)
