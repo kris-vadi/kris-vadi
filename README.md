@@ -22,4 +22,4 @@ You can see my CV [here]().
 <!--![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)-->
 
-[![codewars](https://www.codewars.com/users/username/badges/micro)](https://www.codewars.com/users/rsschool_64a3a56f77b542d3/badges/micro)
+[![codewars](https://www.codewars.com/users/rsschool_64a3a56f77b542d3/badges/micro?theme=light)](https://www.codewars.com/users/rsschool_64a3a56f77b542d3/badges/micro?theme=light)
